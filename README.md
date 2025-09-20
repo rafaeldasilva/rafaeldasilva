@@ -38,12 +38,12 @@ Infrastructure engineer turned DevOps and AWS cloud specialist with 14+ years sp
 - Embedding security scanning, cost analysis, and compliance automation inside CI/CD pipelines
 - Enabling collaborative DevOps cultures through knowledge sharing, workshops, and playbooks
 
-## Selected Wins
+<!-- ## Selected Wins
 
 - Delivered a production-grade MLOps pipeline on AWS that shrank provisioning-to-testing time from six weeks to seven hours
 - Migrated container platforms to EKS using Helm and Python automation, cutting licensing spend by 45% while boosting portability
 - Established Terraform-driven landing zones and GitLab CI workflows that improved onboarding speed and audit readiness
-- Orchestrated PCI DSS evidence automation and patch management programs that sustained compliance across critical workloads
+- Orchestrated PCI DSS evidence automation and patch management programs that sustained compliance across critical workloads -->
 
 ## GitHub Snapshot
 
