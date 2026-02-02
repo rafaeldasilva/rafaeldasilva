@@ -45,10 +45,6 @@ Infrastructure engineer turned DevOps and AWS cloud specialist with 14+ years sp
 - Established Terraform-driven landing zones and GitLab CI workflows that improved onboarding speed and audit readiness
 - Orchestrated PCI DSS evidence automation and patch management programs that sustained compliance across critical workloads -->
 
-## GitHub Snapshot
-
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaeldasilva&show_icons=true&theme=default&hide_title=true)
-
 ## Let’s Connect
 
 I'm always happy to talk cloud architecture, DevOps culture, and ways to automate the next bottleneck.
